@@ -1,7 +1,7 @@
 # websiteTemplate
 template to create a website with html, css and some external libraries
 
-# Techs used in this:
+# Languages used in this:
 <b>HTML</b><br>
 <b>CSS</b><br>
 <b>Bootstrap</b><br>
