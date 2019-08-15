@@ -6,4 +6,3 @@ template to create a website with html, css and some external libraries
 <b>CSS</b><br>
 <b>Bootstrap</b><br>
 <b>JQuery</b><br>
-<b>AOS.JS</b><br>
