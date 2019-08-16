@@ -28,3 +28,8 @@ body{
     height: 40vh;
     width: 30vw;
 }
+
+img{
+    height: 100%;
+    width: 100%;
+}
