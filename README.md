@@ -5,4 +5,5 @@ template to create a website with html, css and some external libraries
 <b>HTML</b><br>
 <b>CSS</b><br>
 <b>Bootstrap</b><br>
+<b>Javascript</b><br>
 <b>JQuery</b><br>
