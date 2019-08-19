@@ -11,22 +11,17 @@ body{
     background: linear-gradient(to right, #096cad, #42d1f5);
 }
 
-.container{
-    min-width: 100vw;
-    min-height: 100vh;
-}
-
 .row{
-    display: flex;
-    width: 100vw;
-    height: 50vh;
+    padding:2em;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 1em;
 }
 
 .project{
     background: lightgreen;
     margin: auto;
-    height: 40vh;
-    width: 30vw;
+    height: 35vh;
 }
 
 img{
