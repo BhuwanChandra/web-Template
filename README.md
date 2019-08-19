@@ -1,5 +1,5 @@
 # websiteTemplate
-template to create a website with html, css and some external libraries
+This is a collection of web templates created with different front-end languages stated below.
 
 # Languages used in this:
 <b>HTML</b><br>
